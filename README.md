@@ -1,0 +1,2 @@
+# scrapy
+ptt_beauty
